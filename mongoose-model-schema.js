@@ -15,4 +15,4 @@ const Users = mongoose.model("User", UserSchema);
 
 module.exports = Users;
 
-// change with your own code
+// change where necessary 
