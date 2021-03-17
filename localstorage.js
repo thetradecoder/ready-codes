@@ -8,7 +8,7 @@ const myStorage = localStorage.setItem('localx', x );
 const localX = localStorage.getItem('localx');
 
 // console.log(localX)  
-// prints (x for x-ray')
+// prints (x for x-ray)
 
 
 
