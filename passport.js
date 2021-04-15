@@ -1,4 +1,4 @@
-```javascript
+
 
 // require passport
 const passport = require('passport');
@@ -35,4 +35,4 @@ app.use(passport.session());
     res.render('pug', { title: err, message: 'Login Error' });
   });
 });
-```
+
